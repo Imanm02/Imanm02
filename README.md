@@ -11,7 +11,9 @@
 
  -->
 
-### Hi there, this is Iman 👋
+### Hi there 👋 I'm Iman. 
+
+I'm currently an undergraduate student in Computer Engineering at Sharif University of Technology (the best university in Iran, according to QS ranking 2023).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imanm02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
