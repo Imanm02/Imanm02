@@ -1,11 +1,13 @@
-<!-- 
 
-<h1 align="center">Hi there, this is Iman 👋</h1>
-<h3 align="center">I'm currently an undergraduate student in Computer Engineering at Sharif University of Technology (the best university in Iran, according to QS ranking 2023).</h3>
+
+<h1 align="left">Hi there, this is Iman 👋</h1>
+<h3 align="left">I'm currently an undergraduate student in Computer Engineering at Sharif University of Technology (the best university in Iran, according to QS ranking 2023).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Imanm02&label=Profile%20views&color=0e75b6&style=flat" alt="Imanm02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Imanm02" alt="Imanm02" /></a> </p>
+
+<!--
 
 ## Github Status
 
@@ -13,10 +15,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Imanm02&show_icons=True"/>
 </center>
 
- -->
-
-### Hi there 👋 I'm Iman. 
-
+-->
 
 ## Github Status
 
