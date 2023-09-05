@@ -1,5 +1,3 @@
-
-
 <h1 align="left">Hi there, this is Iman 👋</h1>
 <h3 align="left">I'm currently an undergraduate student in Computer Engineering at Sharif University of Technology (the best university in Iran, according to QS ranking 2023).</h3>
 
