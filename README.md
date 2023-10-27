@@ -15,7 +15,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Imanm02&show_icons=True"/>
 </center>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Imanm02)](https://github.com/ryo-ma/github-profile-trophy)
+
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Imanm02&theme=onedark&title=Stars,Followers,Organizations,MultiLanguage,Commits,Repositories,Experience,PullRequests)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Github Status
 
