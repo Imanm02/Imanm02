@@ -1,7 +1,9 @@
-<h1 align="left">Hi there, this is Iman 👋</h1>
-<h3 align="left">I'm currently an undergraduate student in Computer Engineering at Sharif University of Technology (the best university in Iran, according to QS ranking 2023).</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Imanm02&label=Profile%20views&color=0e75b6&style=flat" alt="Imanm02" /> </p>
+<h1>Hi there, this is Iman 👋</h1>
+<h3>I'm currently an undergraduate student in Computer Engineering at Sharif University of Technology (the best university in Iran, according to QS ranking 2023).</h3>
+
+<p> <img src="https://komarev.com/ghpvc/?username=Imanm02&label=Profile%20views&color=0e75b6&style=flat" alt="Imanm02" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Imanm02&theme=onedark&title=Stars,Organizations,MultiLanguage,Commits,Repositories,Experience,PullRequests&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -17,3 +19,5 @@
 <a href="https://www.linkedin.com/in/imanmohammadi02/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.instagram.com/iman_m_02/"><img src="https://img.icons8.com/color/96/000000/instagram.png" alt="instagram"/></a>
 <a href="https://twitter.com/Iman_M_02"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter"/></a>
+
+</div>
