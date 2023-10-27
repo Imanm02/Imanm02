@@ -19,7 +19,7 @@
 
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Imanm02&theme=onedark&title=Stars,Followers,Organizations,MultiLanguage,Commits,Repositories,Experience,PullRequests)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Imanm02&theme=onedark&title=Stars,Organizations,MultiLanguage,Commits,Repositories,Experience,PullRequests&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Github Status
 
