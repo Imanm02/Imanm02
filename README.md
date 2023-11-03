@@ -1,7 +1,8 @@
 <div align="center">
 
 <h1>Hi there, this is Iman 👋</h1>
-<h3>I am a fourth-year undergraduate Computer Engineering student at the Sharif University of Technology (the best university in Iran, according to QS ranking 2023).</h3>
+
+<h3 style="direction: ltr; text-align: left;">I am a fourth-year undergraduate Computer Engineering student at the Sharif University of Technology (the best university in Iran, according to QS ranking 2023).</h3>
 
 <p> <img src="https://komarev.com/ghpvc/?username=Imanm02&label=Profile%20views&color=0e75b6&style=flat" alt="Imanm02" /> </p>
 
