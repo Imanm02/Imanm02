@@ -21,6 +21,11 @@
 <a href="https://www.instagram.com/iman_m_02/"><img src="https://img.icons8.com/color/96/000000/instagram.png" alt="instagram" width="60" height="60"/></a>
 <a href="https://twitter.com/Iman_M_02"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter" width="60" height="60"/></a>
 
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Iman_M_02)
+[![Gmail](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:imanm1381@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imanmohammadi02/)
+[![Sharif Mail](https://img.shields.io/badge/-Sharif_mail-black?style=for-the-badge&logo=googlescholar)](mailto:imanmohammadi@sharif.edu)
+
 [![Iman Mohammadi StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/14816009?theme=dark)](https://stackoverflow.com/users/14816009/iman-mohammadi)
 
 </div>
