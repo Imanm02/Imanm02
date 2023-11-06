@@ -12,6 +12,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imanm02&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<td colspan=2 align = "center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imanm02&theme=tokyonight" />
+</td>
+
 ## Contact
 
 <a href="https://iman-mohammadi.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood" width="60" height="60"/></a>
