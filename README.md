@@ -16,6 +16,13 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imanm02&theme=tokyonight" />
 </td>
 
+<p align="center">
+  <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=imanm02&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imanm02&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imanm02&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+</p>
+
 ## Contact
 
 <a href="https://iman-mohammadi.com"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood" width="60" height="60"/></a>
