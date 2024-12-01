@@ -6,7 +6,7 @@
 
 <div>
   
-<h3 style="direction: ltr; text-align: left;">I am a fourth-year undergraduate Computer Engineering student at the Sharif University of Technology (the best university in Iran, according to QS ranking 2023).</h3>
+<h3 style="direction: ltr; text-align: left;">I am a final-year undergraduate student in Computer Engineering at Sharif University of Technology, ranked as the top university in Iran by the QS World University Rankings 2023.</h3>
 
 </div>
 
