@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there, this is Iman 👋</h1>
+<h1>Hi there, this is Iman Mohammadi👋</h1>
 
 </div>
 
@@ -11,7 +11,6 @@
 </div>
 
 <div align="center">
-
 
 <p> <img src="https://komarev.com/ghpvc/?username=Imanm02&label=Profile%20views&color=0e75b6&style=flat" alt="Imanm02" /> </p>
 
@@ -26,7 +25,7 @@
 <p align="center">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=imanm02&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="150px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=imanm02&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=imanm02&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imanm02&"alt="imanm02"/>
   <br>
 </p>
 
@@ -39,9 +38,5 @@
 <a href="https://www.linkedin.com/in/imanmohammadi02/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="60" height="60"/></a>
 <a href="https://www.instagram.com/iman_m_02/"><img src="https://img.icons8.com/color/96/000000/instagram.png" alt="instagram" width="60" height="60"/></a>
 <a href="https://twitter.com/Iman_M_02"><img src="https://img.icons8.com/color/96/000000/twitter.png" alt="twitter" width="60" height="60"/></a>
-
-<!--
-[![Iman Mohammadi StackOverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/14816009?theme=dark)](https://stackoverflow.com/users/14816009/iman-mohammadi)
--->
 
 </div>
