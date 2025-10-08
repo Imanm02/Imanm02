@@ -6,7 +6,7 @@
 
 <div>
   
-<h3 style="direction: ltr; text-align: left;">I am a final-year undergraduate student in Computer Engineering at Sharif University of Technology, ranked as the top university in Iran by the QS World University Rankings 2023.</h3>
+<h3 style="direction: ltr; text-align: left;">I am a PhD student in Computer Science at the University of California, Irvine.</h3>
 
 </div>
 
